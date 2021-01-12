@@ -164,3 +164,17 @@ Co se týče prostorové složitosti, jde o spotřebu paměti. Závisí na velik
 ## Bonus
 
 Společná implementace vybraných řadících algoritmů (Select sort a Bubble sort) a určení jejich časové a prostorové složitosti.
+
+### Select sort
+
+Verze s pomocným polem.
+
+Dokud jsou v poli, které máme seřadit, opakuj následující:
+
+ - projdi pole, které máme seřadit a najdi v něm nejmenší či největší prvek, ten z tohoto pole odeber a přidej ho nakonec pomocného pole
+
+Takto si v pomocném poli vybudujeme seřazenou posloupnoust, která bude představovat náš výsledek.
+
+### Bubble sort
+
+Dokud dojde aspoň k jednomu prohození, procházej postupně pole k seřazení a porovnávej sousední prvky - pokud jsou ve špatném pořadí, prohoď je.
