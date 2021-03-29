@@ -68,7 +68,7 @@ Tato datová struktura se používá především pro dočasné ukládání dat.
 ### Strom
 
   <p align="left">
-  <img src="https://github.com/ENGETO-Java-Akademie/java2_lekce_01/blob/main/tree.png" width="500" height="360">
+  <img src="https://github.com/ENGETO-Java-Akademie/java2_lekce_01/blob/main/tree.png" width="620" height="360">
 </p>
 
 Už v předchozí lekci jsme je v opakování o datových typech a strukturách zmínili. Teď si to jen zopakujeme a něco k tomu přidáme.
